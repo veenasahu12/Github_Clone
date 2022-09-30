@@ -1,0 +1,42 @@
+/* Homepage */
+.mapping-data{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    gap: 20px;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
+
+.data-item{
+    border: 1px solid honeydew;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: black;
+    text-align: left;
+    padding-left: 8%;
+    padding-bottom: 7%;
+}
+
+.userimg{
+    height: 200px;
+}
+
+.data-items{
+    border: 1px solid honeydew;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    color: black;
+    text-align: left;
+    padding-left: 5%;
+    padding-bottom: 1%;
+    width: 20%;
+    margin: auto;
+}
+
+.details{
+    width: 40%;
+    margin: auto;
+    font-size: 18px;
+    font-family: cursive ;
+    text-align: left;
+    padding-left: 5%;
+    padding-bottom: 2%;
+    box-shadow: rgba(0, 0, 0, 0.15) 1.95px 1.95px 2.6px;
+}
