@@ -4,7 +4,7 @@ import { useLocation } from 'react-router-dom'
 const UserDetails = (props) => {
     
     const {state} = useLocation();
-    console.log(state , "dfghjk")
+    console.log(state)
 
     return (
         <div className='details'>
